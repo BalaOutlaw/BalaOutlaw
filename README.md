@@ -1,12 +1,32 @@
-- Yeo! am rala routlaw
-- am interested in 15 14 16
-- im currently learning how to cuk
-- im looking to collaborate on oh ef
-- you can reach me by just yelling my name to get my attention
-- take a fawgin guess of my pronouns its a 50/50 chance
-- fun fact, am sawllyyyy
-
-<!---
-BalaOutlaw/BalaOutlaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<html>
+  <title>BalaOutlaw</title>
+  <head>Wassug am BalaOutlaw</head>
+  <style>
+    h1 {
+      color: #242424;
+    }
+    h2 {
+      color: #454545;
+    }
+    h3 {
+      color: #696969;
+    }
+    h4 {
+      color: #9c9c9c;
+    }
+    h5 {
+      color: #e3e3e3;
+    }
+  </style>
+  <body>
+    <h1>BalaOutlaw</h1>
+    <h2>BalaOutlaw</h2>
+    <h3>BalaOutlaw</h3>
+    <h4>BalaOutlaw</h4>
+    <h5>BalaOutlaw</h5>
+    <h4>BalaOutlaw</h4>
+    <h3>BalaOutlaw</h3>
+    <h2>BalaOutlaw</h2>
+    <h1>BalaOutlaw</h1>
+  </body>
+</html>
