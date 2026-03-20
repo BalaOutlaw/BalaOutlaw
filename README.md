@@ -1,7 +1,7 @@
 <html>
-  <title>BalaOutlaw</title>
-  <head>Wassug am BalaOutlaw</head>
-  <style>
+  <head>
+    <title>Wassug am BalaOutlaw</title>
+    <style>
     h1 {
       color: #242424;
     }
@@ -18,6 +18,7 @@
       color: #e3e3e3;
     }
   </style>
+  </head>
   <body>
     <h1>BalaOutlaw</h1>
     <h2>BalaOutlaw</h2>
